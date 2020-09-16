@@ -12,7 +12,7 @@ console.log(alfabeto)
 
 for (let index = 0; index < 8; index++) {
 
-    if (alfabeto[getRandomInt(0, alfabeto.length - 1) != undefined) {
+    if (alfabeto[getRandomInt(0, alfabeto.length - 1)] != undefined ) {
         teste = teste + alfabeto[getRandomInt(0, alfabeto.length - 1)];
     }
 }
