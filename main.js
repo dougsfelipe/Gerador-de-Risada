@@ -10,7 +10,7 @@ console.log(teste)
 console.log(alfabeto)
 
 
-for (let index = 0; index < 12; index++) {
+for (let index = 0; index < 8; index++) {
     
   teste = teste + alfabeto[getRandomInt(0,alfabeto.length)];
     
